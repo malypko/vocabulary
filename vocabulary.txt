@@ -1,0 +1,10 @@
+dog собака
+cat кошка
+bad плохой
+red красный
+blue синий
+green зеленый
+one один
+two два
+eagle орел
+two два
